@@ -1,6 +1,6 @@
 # Calcualtor
 
-It is console calculator appliaction.
+This is a console appliaction of the calculator.
 
 
 ## Install and open
